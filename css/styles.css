@@ -120,7 +120,7 @@ p {
 
 /*********************PRICING SECTION********************/
 #pricing {
-  padding: 3% 15%;
+  padding: 3% 20%;
   text-align: center;
 }
 
@@ -137,5 +137,37 @@ p {
   position: static;
   transform: rotate(0);
 }
+}
 
+/********************Call to Action SECTION*********************/
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 5% 25% 5%;
+}
+
+.cta-header {
+  font-family: 'Montserrat-Black';
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+/********************footer SECTION*********************/
+
+#footer {
+  background-color: #fff;
+
+  text-align: center;
+  padding: 5% 25% 5%;
+}
+
+.footer-paragraph{
+  color: grey;
+  font-weight: 700;
+}
+
+.footer-image {
+  margin: 1% 1% 2%;
 }
